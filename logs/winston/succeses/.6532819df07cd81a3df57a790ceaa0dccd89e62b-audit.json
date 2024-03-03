@@ -1,0 +1,20 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Development\\mongoose-project-setup\\logs\\winston\\succeses\\.6532819df07cd81a3df57a790ceaa0dccd89e62b-audit.json",
+  "files": [
+    {
+      "date": 1700657973335,
+      "name": "C:\\Development\\mongoose-project-setup\\logs\\winston\\succeses\\success-2023-11-22-18.log",
+      "hash": "6a6fb01c107eb2efd40442a3fe4af6686dd74fae708381b8d87d45a766ad2eb7"
+    },
+    {
+      "date": 1700658016086,
+      "name": "C:\\Development\\mongoose-project-setup\\logs\\winston\\succeses\\success-2023-11-22-19.log",
+      "hash": "26b5c0c4cffce94c70c4aeba3f08b8d938313489b388847f0bbc501fae4dd428"
+    }
+  ],
+  "hashType": "sha256"
+}

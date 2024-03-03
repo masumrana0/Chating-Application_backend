@@ -1,0 +1,31 @@
+[
+  {
+    "adminId": "referenceId",
+    "category": "Basic",
+    "qustion": " lkdjslkf",
+    "options": ["Option1", "Option2", "Option3", "options4"],
+    "currectAnswer": "Option2"
+  }
+]
+
+[
+    {
+        "userName":"omukhasan123",
+        "name":{
+            "firstName":"Omuk",
+            "lastName":"Hasan"
+        },
+        "email":"omukhasan@gmail.com",
+        "skills":["JavaScript","React js"],
+       "Education":["HSC","honus","masters"],
+       "Gender":"male",
+       "Nationality":"Bangladeshi",
+       "DateofBirth":"12/01/2023",
+       "profilePicture":"url",
+       "socialMediaLinks":["facebook","Linkedin","GitHub"],
+       "PhoneNumber":"01978797987"
+    }
+]
+
+
+
